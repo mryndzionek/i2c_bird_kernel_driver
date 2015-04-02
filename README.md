@@ -6,5 +6,5 @@ Device made by [ASCOT GmbH](http://www.ascot-gmbh.de)
 Build instructions
 ------------------
 
-* sudo apt-get install build-essential linux-headers-$(uname -r)
-* make
+* `sudo apt-get install build-essential linux-headers-$(uname -r)`
+* `make`
